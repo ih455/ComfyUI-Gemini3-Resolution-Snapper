@@ -61,6 +61,5 @@ Navigate to your ComfyUI `custom\_nodes` directory and clone this repo:
 （进入你的 ComfyUI `custom\_nodes` 目录，然后克隆此仓库：）
 
 ```bash
-cd ComfyUI/custom\_nodes/
 git clone https://github.com/ih455/ComfyUI-Gemini3-Resolution-Snapper
 
