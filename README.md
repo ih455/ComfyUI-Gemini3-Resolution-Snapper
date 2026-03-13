@@ -1,0 +1,1 @@
+# ComfyUI-Gemini3-Resolution-Snapper
